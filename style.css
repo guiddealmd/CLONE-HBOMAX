@@ -1,0 +1,28 @@
+*{   margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body{
+    background: rgb(151,51,237);
+    background: linear-gradient(90deg, rgba(151,51,237,1) 0%, rgba(74,13,198,1) 50%, rgba(66,109,212,1) 100%);
+}
+
+.main{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 332px;
+
+}
+
+.main h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 326px;
+}
