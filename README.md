@@ -32,5 +32,5 @@ Você pode conferir o design da interface no [link do Figma](https://www.figma.c
 
 ## Deploy
 
-O projeto está disponível em [Clone-Sistok no Vercel](https://clone-hbomax-five.vercel.app/) para visualização.
+O projeto está disponível em [Clone-HBOMAX no Vercel](https://clone-hbomax-five.vercel.app/) para visualização.
 
